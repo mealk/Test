@@ -19,7 +19,7 @@
     
     Player * player = [[Player alloc] init];
     player.name = @"Bill Evans";
-    player.game = @"player.game";
+    player.game = @"player.game";////
     player.rating = 4;
     [_players addObject:player];
 
